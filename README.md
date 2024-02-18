@@ -3,6 +3,7 @@
 <!--
 **cashGO2/cashGO2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[!img-1] (res/20240216_134345_0000.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
